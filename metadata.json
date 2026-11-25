@@ -1,0 +1,6 @@
+{
+  "name": "CloudVault DR",
+  "description": "Cloud-Based Disaster Recovery System using the MERN stack, MongoDB Atlas, and GridFS for automated file backups, SHA-256 integrity verification, and versioned file recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
